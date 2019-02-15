@@ -30,5 +30,6 @@ local lens = magnifier.new({
 ```
 
 ## Sample Project
-Load the `sample_project` subdirectory of this repository in the Corona Simulator to view a sample project. Or you can watch this video demo on YouTube:
+Load the `sample_project` subdirectory of this repository in the Corona Simulator to view a sample project. Or you can watch this video demo on YouTube:  
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1gxV_-hKxjM" target="_blank"><img src="http://img.youtube.com/vi/1gxV_-hKxjM/0.jpg" width="480" height="360" border="0" /></a>
